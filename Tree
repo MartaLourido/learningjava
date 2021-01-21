@@ -1,0 +1,29 @@
+
+//Printing differnt trees in java
+
+
+public class Tree {
+  public static void main(String[] args) {
+    // code for main method goes here
+    System.out.println("Hey there, I’m Marta and I’m learning to code in Java!");
+    System.out.println("Ready to get my hands dirty!");
+    System.out.println("  *  ");
+    System.out.println(" *** ");
+    System.out.println(" *** ");
+    System.out.println("  *  ");
+    System.out.println("  *  ");   
+  }
+}
+
+public class Tree {
+  public static void main(String[] args) {
+    // code for main method goes here
+    System.out.println("Hey there, I’m Marta and I’m learning to code in Java!");
+    System.out.println("Ready to get my hands dirty!");
+    System.out.println(" * ** *   ");
+    System.out.println(" ******  ");
+    System.out.println("  **** ");
+    System.out.println("   **  ");
+    System.out.println("   **  "); 
+  }
+}
